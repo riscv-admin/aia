@@ -9,7 +9,7 @@ interrupt controller with full virtualization support
 ## Timeline
 ISA/Non-ISA ratification/approval by the end of 2021
 
-## Chairs:
+## Chairs
 - Anup Patel, Software Chair
 - John Hauser, Hardware Chair, Lead Architect
 
